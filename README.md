@@ -56,6 +56,8 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 ](https://github.com/Adamgzlez/Pen-Testing-Report-Project)
 
 
-[
+[SIEM Lab
 ](https://github.com/Adamgzlez/SIEM-Lab)
 
+[Configuring Firewalls Lab
+](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)
