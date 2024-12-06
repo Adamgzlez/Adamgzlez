@@ -64,3 +64,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 [
 ](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)
+[
+](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab)
+
+
