@@ -11,7 +11,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [SIEM LAB](https://github.com/Adamgzlez/SIEM-Lab)
+| SIEM Implementation and Log Analysis          | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
