@@ -48,25 +48,12 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 </div>
 
 ## Projects
-- SEIM LAB
-- SOC Automation Project
-- [Web App Project
-](https://github.com/Adamgzlez/WebApp-Project)
-- [Pen-Testing Project CTF
-](https://github.com/Adamgzlez/Pen-Testing-Report-Project)
 
-
-[SIEM Lab
-](https://github.com/Adamgzlez/SIEM-Lab)
-
-[Configuring Firewalls Lab
-](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)
-
-[
-](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)
-[
-](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab)
-
-[
-](https://github.com/Adamgzlez/Archiving-and-Logging-Data-Lab)
-
+- [Web App Project](https://github.com/Adamgzlez/WebApp-Project)
+- [Pen-Testing Project CTF](https://github.com/Adamgzlez/Pen-Testing-Report-Project)
+- [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
+- [Configuring Firewalls Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)
+- [Domain Hardening GPOs Lab](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)
+- [Network Vulnerability Assessment Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab)
+- [Archiving and Logging Data Lab](https://github.com/Adamgzlez/Archiving-and-Logging-Data-Lab)
+- [Sysadmin Fundamentals Lab](https://github.com/Adamgzlez/Sysadmin-Fundamentals-Lab)
