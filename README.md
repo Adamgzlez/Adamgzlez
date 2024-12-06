@@ -61,3 +61,6 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 [Configuring Firewalls Lab
 ](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)
+
+[
+](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)
