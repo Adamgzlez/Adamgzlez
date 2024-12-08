@@ -13,7 +13,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
 | Developing Baselines and Setting Alerts | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
-| Network Vulnerability Mitigation Suggestions         | SOC Automation Lab|
+| Network Vulnerability Mitigation Suggestions         | [Network Vulnerability Assessment Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab)|
 | Managing Traffic Using Ports and Protocols    | SOC Automation Lab|
 | Blocking Ips and Ping Requests                  | SOC Automation Lab|
 | Creating Group Policy Objects On Windows Machine | SOC Automation Lab|
