@@ -12,11 +12,11 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Developing Baselines and Setting Alerts | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab)
+| Network Vulnerability Mitigation Suggestions         | SOC Automation Lab|
+| Managing Traffic Using Ports and Protocols    | SOC Automation Lab|
+| Blocking Ips and Ping Requests                  | SOC Automation Lab|
+| Creating Group Policy Objects On Windows Machine | SOC Automation Lab|
 
 ## Tools
 Linux, Azure, Windows, Powershell
