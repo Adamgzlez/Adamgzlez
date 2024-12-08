@@ -16,7 +16,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Network Vulnerability Mitigation Suggestions         | [Network Vulnerabilities Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab)|
 | Managing Traffic Using Ports and Protocols    | [Configuring Firewalld Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)|
 | Blocking Ips and Ping Requests                  | [Configuring Firewalld Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab)|
-| Creating Group Policy Objects On Windows Machine | SOC Automation Lab|
+| Creating Group Policy Objects On Windows Machine | [Domain Hardening Lab](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)|
 
 ## Tools
 Linux, Azure, Windows, Powershell
