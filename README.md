@@ -1,4 +1,4 @@
-# Hello, I'm Adam
+# Adam Gonzalez's Cybersecurity Project Portfolio
 <a href="https://www.linkedin.com/in/adamgzlez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🎓 Recent graduate with a strong passion for cybersecurity, actively building hands-on skills through labs, real-world projects, and industry certifications.
