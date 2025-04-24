@@ -13,13 +13,6 @@
 
 I’ve developed a strong passion for cybersecurity and am now actively pursuing a career as a Cybersecurity Analyst. I'm eager to apply my growing technical skills, hands-on lab experience, and commitment to continuous learning in a real-world security environment.
 
-
-
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
-
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
