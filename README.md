@@ -11,7 +11,7 @@
 
 ## Objective
 
-My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.
+I’ve developed a strong passion for cybersecurity and am now actively pursuing a career as a Cybersecurity Analyst. I'm eager to apply my growing technical skills, hands-on lab experience, and commitment to continuous learning in a real-world security environment.
 
 ## Skills
 
