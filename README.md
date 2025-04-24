@@ -19,7 +19,10 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 | Creating Group Policy Objects On Windows Machine | [Domain Hardening Lab](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab)|
 
 ## Tools
-Linux, Azure, Windows, Powershell
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Microsoft Azure Badge"/>
+</div>
+
 
 ### Network
 <div>
