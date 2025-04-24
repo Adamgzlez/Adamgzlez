@@ -3,7 +3,7 @@
 
 🎓 Recent graduate with a strong passion for cybersecurity, actively building hands-on skills through labs, real-world projects, and industry certifications.
 
-🛡️ Focused on threat detection, system hardening, and incident response using tools like Security Onion, Wazuh, and Splunk.
+🛡️ Focused on threat detection, system hardening, and incident response using tools like Security Onion, Wazuh, Splunk and Microsoft Products.
 
 💡 Continuously learning and documenting my journey in offensive and defensive security — one lab at a time.
 
