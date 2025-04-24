@@ -33,9 +33,10 @@ Linux, Azure, Windows, Powershell
 
 ## Certifications
 
-<div
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
 </div>
+
 
 ## Projects
 
