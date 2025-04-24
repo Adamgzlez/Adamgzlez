@@ -20,7 +20,7 @@ I’ve developed a strong passion for cybersecurity and am now actively pursuing
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Adamgzlez/Threat-Hunting-Scenario-Tor)**
 
 ## Skills
 
