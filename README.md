@@ -81,7 +81,7 @@ I’ve developed a strong passion for cybersecurity and am now actively pursuing
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adam| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/adamgzlez
 
