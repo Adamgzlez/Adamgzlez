@@ -1,10 +1,10 @@
 # Hello, I'm Adam
 <a href="https://www.linkedin.com/in/adamgzlez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
--🎓 Recent graduate with a strong passion for cybersecurity, actively building hands-on skills through labs, real-world projects, and industry certifications.
--🛡️ Focused on threat detection, system hardening, and incident response using tools like Security Onion, Wazuh, and Splunk.
--💡 Continuously learning and documenting my journey in offensive and defensive security — one lab at a time.
--👀 Open to entry-level cybersecurity roles where I can contribute, grow, and help protect what matters.
+#🎓 Recent graduate with a strong passion for cybersecurity, actively building hands-on skills through labs, real-world projects, and industry certifications.
+#🛡️ Focused on threat detection, system hardening, and incident response using tools like Security Onion, Wazuh, and Splunk.
+#💡 Continuously learning and documenting my journey in offensive and defensive security — one lab at a time.
+#👀 Open to entry-level cybersecurity roles where I can contribute, grow, and help protect what matters.
 
 ## Objective
 
