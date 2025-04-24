@@ -79,14 +79,11 @@ I’ve developed a strong passion for cybersecurity and am now actively pursuing
 - [Archiving and Logging Data Lab](https://github.com/Adamgzlez/Archiving-and-Logging-Data-Lab)
 - [Sysadmin Fundamentals Lab](https://github.com/Adamgzlez/Sysadmin-Fundamentals-Lab)
 
-
-<hr/>
-
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: www.linkedin.com/in/adamgzlez
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
