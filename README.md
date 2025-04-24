@@ -20,16 +20,16 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 
 ## Tools
 <div>
-  
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tenable-1C1C1C?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Badge"/>
   <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender for Endpoint Badge"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge"/>
+  
 </div>
 
 
 ## Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Microsoft Azure Badge"/>
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
@@ -38,6 +38,7 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge"/>
 </div>
 
 ## Certifications
