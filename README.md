@@ -23,7 +23,11 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tenable-1C1C1C?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Badge"/>
   <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender for Endpoint Badge"/>
-  
+  <img src="https://img.shields.io/badge/-OPNsense-ED6C30?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense Badge"/>
+  <img src="https://img.shields.io/badge/-Security%20Onion-6A1B9A?style=for-the-badge&logo=securityonion&logoColor=white" alt="Security Onion Badge"/>
+  <img src="https://img.shields.io/badge/-MISP-DC143C?style=for-the-badge&logo=misp&logoColor=white" alt="MISP Badge"/>
+  <img src="https://img.shields.io/badge/-TheHive-000000?style=for-the-badge&logo=thehive&logoColor=yellow" alt="TheHive Badge"/>
+  <img src="https://img.shields.io/badge/-Cortex-343434?style=for-the-badge&logo=cortex&logoColor=white" alt="Cortex Badge"/>
 </div>
 
 
@@ -32,12 +36,14 @@ My journey has led me to develop a passion for cybersecurity, and I am now eager
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Microsoft Azure Badge"/>
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+    <img src="https://img.shields.io/badge/-Windows%20AD-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Active Directory Badge"/>
 </div>
 
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge"/>
+    <img src="https://img.shields.io/badge/-Wazuh-00599C?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Badge"/>
 </div>
 
 ## Certifications
