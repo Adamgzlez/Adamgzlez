@@ -65,6 +65,7 @@ I’ve developed a strong passion for cybersecurity and am now actively pursuing
 
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge"/>
 </div>
 
 
