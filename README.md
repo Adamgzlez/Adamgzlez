@@ -90,3 +90,122 @@ I’ve developed a strong passion for cybersecurity and am now actively pursuing
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+
+
+# Hi, I'm Adam Gonzalez 👋
+
+<a href="https://www.linkedin.com/in/adamgzlez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Cybersecurity professional focused on threat detection, vulnerability management, and security operations. I build hands-on labs to develop real-world skills and document everything as professional reports.
+
+- 🛡️ Experienced with SIEM platforms, endpoint detection, network security, and Active Directory hardening
+- 🔍 Hands-on with offensive and defensive tooling — from Nmap and Wireshark to Microsoft Defender and Wazuh
+- 📄 Every project is documented with objectives, methodology, findings, and mitigations
+- 📬 Open to entry-level roles in SOC analysis, security engineering, and IT support
+
+---
+
+## Skills
+
+| Skill | Associated Project |
+|---|---|
+| Vulnerability scanning and remediation lifecycle | [Vulnerability Management Program](https://github.com/Adamgzlez/Vulnerability-Management-Program) |
+| Automated vulnerability remediation (PowerShell / Bash) | [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations) |
+| Threat hunting with KQL and MDE | [Threat Hunting — Tor Browser](https://github.com/Adamgzlez/Threat-Hunting-Scenario-Tor) |
+| SIEM implementation and log analysis | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab) |
+| Developing baselines and configuring alerts | [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab) |
+| Network scanning, port analysis, and asset discovery | [Network Vulnerability Assessment Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab) |
+| Packet capture and traffic analysis | [Network Vulnerability Assessment Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab) |
+| Firewall rule creation and traffic filtering | [Configuring Firewalls Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab) |
+| Blocking IPs and managing ports and protocols | [Configuring Firewalls Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab) |
+| Active Directory and Group Policy hardening | [Domain Hardening GPOs Lab](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab) |
+| Log archiving and centralized logging setup | [Archiving and Logging Data Lab](https://github.com/Adamgzlez/Archiving-and-Logging-Data-Lab) |
+| Linux and Windows system administration | [Sysadmin Fundamentals Lab](https://github.com/Adamgzlez/Sysadmin-Fundamentals-Lab) |
+| Web application security testing | [Web App Project](https://github.com/Adamgzlez/WebApp-Project) |
+| Penetration testing methodology and reporting | [Pen-Testing CTF](https://github.com/Adamgzlez/Pen-Testing-Report-Project) |
+
+---
+
+## Projects
+
+### ⚠️ Vulnerability Management
+| Project | Description |
+|---|---|
+| [Vulnerability Management Program](https://github.com/Adamgzlez/Vulnerability-Management-Program) | Full vulnerability lifecycle using Tenable and Microsoft Defender — scan, triage, remediate, verify |
+| [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations) | PowerShell and Bash scripts that automate common vulnerability remediations |
+
+### 🚨 Threat Hunting & Security Operations
+| Project | Description |
+|---|---|
+| [Threat Hunting — Tor Browser Usage](https://github.com/Adamgzlez/Threat-Hunting-Scenario-Tor) | Hunted for unauthorized Tor Browser usage on endpoints using MDE and KQL |
+| [SIEM Lab](https://github.com/Adamgzlez/SIEM-Lab) | Deployed and configured a SIEM, ingested logs, created detection baselines and custom alerts |
+
+### 🔒 Defensive Security & Hardening
+| Project | Description |
+|---|---|
+| [Domain Hardening GPOs Lab](https://github.com/Adamgzlez/Domain-Hardening-GPOs-Lab) | Hardened a Windows AD environment using Group Policy — password policy, lockout, audit logging |
+| [Configuring Firewalls Lab](https://github.com/Adamgzlez/Configuring-Firewalls-Lab) | Built and tested firewall rules in OPNsense — port blocking, IP filtering, traffic management |
+
+### 🌐 Network Security
+| Project | Description |
+|---|---|
+| [Network Vulnerability Assessment Lab](https://github.com/Adamgzlez/Network-Vulnerability-Assessment-Lab) | Performed a full network assessment — fping, Nmap, Wireshark traffic analysis, SSH investigation |
+
+### 💻 Offensive Security
+| Project | Description |
+|---|---|
+| [Pen-Testing CTF](https://github.com/Adamgzlez/Pen-Testing-Report-Project) | CTF write-up documenting recon, exploitation, and post-exploitation methodology |
+| [Web App Project](https://github.com/Adamgzlez/WebApp-Project) | Web application security testing — vulnerability identification and mitigation recommendations |
+
+### 🖥️ Sysadmin & IT Fundamentals
+| Project | Description |
+|---|---|
+| [Archiving and Logging Data Lab](https://github.com/Adamgzlez/Archiving-and-Logging-Data-Lab) | Configured log rotation, archiving strategies, and centralized logging on Linux |
+| [Sysadmin Fundamentals Lab](https://github.com/Adamgzlez/Sysadmin-Fundamentals-Lab) | User management, file permissions, cron jobs, and system monitoring across Linux and Windows |
+
+---
+
+## Tools
+
+**Security & analysis**
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tenable-1C1C1C?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OPNsense-ED6C30?style=for-the-badge&logo=opnsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%20Onion-6A1B9A?style=for-the-badge&logo=securityonion&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MISP-DC143C?style=for-the-badge&logo=misp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TheHive-000000?style=for-the-badge&logo=thehive&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-Cortex-343434?style=for-the-badge&logo=cortex&logoColor=white" />
+</div>
+
+**SIEM**
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-00599C?style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
+
+**Infrastructure & platforms**
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows%20AD-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+---
+
+## Certifications
+
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+---
+
+## Connect
+
+<a href="https://www.linkedin.com/in/adamgzlez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
