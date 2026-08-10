@@ -26,18 +26,5 @@ I'm always looking for new technologies to learn and better ways to design secur
 - OPNsense Enterprise Firewall
 - Cloud Monitoring & Automation
 
-### Goals
-
-- Become a Network Engineer
-- Transition into Cloud Engineering
-- Build enterprise-level projects
-- Continuously learn and improve
-
-### Fun Facts
-
-- 🏋️ I enjoy weightlifting and fitness.
-- ☕ Always learning something new.
-- 💻 I like building labs almost as much as breaking them and fixing them.
-
 
 
