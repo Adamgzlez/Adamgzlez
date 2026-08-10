@@ -1,11 +1,13 @@
 ### Hey there! 👋
-I'm Adam, a Cloud & Network Engineering student passionate about building enterprise infrastructure and solving real-world networking challenges.
+I'm Adam, a Cloud & Network Engineering student in Texas.
 
 I'm currently studying cloud technologies, networking, Linux, and cybersecurity while building hands-on projects that simulate production environments.
 
 Most of my repositories are learning projects where I document my progress, labs, and enterprise infrastructure builds.
 
-I'm always looking for new technologies to learn and better ways to design secure, scalable networks.
+I've got some pinned projects that took some time, but I'm proud of them. 
+
+I'm always looking to learn new and better ways to design secure networks. 
 
 ### Current Focus
 
