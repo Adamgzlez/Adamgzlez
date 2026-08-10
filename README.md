@@ -1,4 +1,4 @@
-# Hey there! 👋
+## Hey there! 👋
 
 I'm Adam, a Cloud & Network Engineering student passionate about building enterprise infrastructure and solving real-world networking challenges.
 
