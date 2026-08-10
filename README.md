@@ -1,5 +1,4 @@
-## Hey there! 👋
-
+### Hey there! 👋
 I'm Adam, a Cloud & Network Engineering student passionate about building enterprise infrastructure and solving real-world networking challenges.
 
 I'm currently studying cloud technologies, networking, Linux, and cybersecurity while building hands-on projects that simulate production environments.
