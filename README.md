@@ -7,7 +7,7 @@ Most of my repositories are learning projects where I document my progress, labs
 
 I've got some pinned projects that took some time, but I'm proud of them. 
 
-I'm always looking to learn new and better ways to design secure networks. 
+I'm always looking to learn new and better ways to design secure, scalable networks. 
 
 ### Current Focus
 
