@@ -3,8 +3,6 @@ I'm Adam, a Cloud & Network Engineering student passionate about building enterp
 
 I'm currently studying cloud technologies, networking, Linux, and cybersecurity while building hands-on projects that simulate production environments.
 
-My favorite technologies include Azure, VMware, Windows Server, Linux, PowerShell, and networking.
-
 Most of my repositories are learning projects where I document my progress, labs, and enterprise infrastructure builds.
 
 I'm always looking for new technologies to learn and better ways to design secure, scalable networks.
