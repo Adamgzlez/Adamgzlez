@@ -5,7 +5,7 @@ I'm currently studying cloud technologies, networking, Linux, and cybersecurity 
 
 Most of my repositories are learning projects where I document my progress, labs, and enterprise infrastructure builds.
 
-I've got some pinned projects that took some time, but I'm proud of them. 
+I've got some pinned projects that took some time, but my favorite is the Hybrid Azure Infrastructure Project. Check it out!
 
 I'm always looking to learn new and better ways to design secure, scalable networks. 
 
@@ -17,14 +17,6 @@ I'm always looking to learn new and better ways to design secure, scalable netwo
 - 🔒 Network Security
 - 🐧 Linux Administration
 - ⚡ PowerShell Automation
-
-### Currently Building
-
-- Enterprise Hybrid Infrastructure (VMware + Azure)
-- Azure Hub-and-Spoke Network
-- Active Directory Lab
-- OPNsense Enterprise Firewall
-- Cloud Monitoring & Automation
 
 
 
